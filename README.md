@@ -10,11 +10,7 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/GaroPlay)
 
 
-<p align="center">
-  <a href="https://github.com/GaroPlay">
-    <img src="https://skillicons.dev/icons?i=spring,docker,androidstudio,arduino,blender,cs,dotnet,idea,py,stackoverflow,sketchup,unity,visualstudio,vscode" />
-  </a>
-</p>
+
 
 
 
