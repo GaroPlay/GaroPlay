@@ -11,7 +11,26 @@
 
 
 
-
+<p align="center">
+  <a href="https://github.com/GaroPlay">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaroPlay&theme=transparent"/>
+  </a>
+  <a href="https://github.com/GaroPlay">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaroPlay&hide_border=true&card_width=338&theme=transparent"/>
+  </a>
+  <a href="https://github.com/GaroPlay">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaroPlay&theme=transparent"/>
+  </a>
+  <a href="https://github.com/GaroPlay">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GaroPlay&theme=transparent"/>
+  </a>
+  <a href="https://github.com/GaroPlay">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GaroPlay&theme=transparent"/>
+  </a>
+   <a href="https://github.com/GaroPlay">
+    <img src="https://github-profile-trophy.vercel.app/?username=GaroPlay&theme=onedark&column=4&margin-w=45&margin-h=45"/>
+  </a>
+</p>
 
 
  <div align="center">
