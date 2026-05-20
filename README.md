@@ -2,6 +2,7 @@
 ### Languages
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/GaroPlay)
 [![blueprint](https://img.shields.io/badge/blueprint-black?style=for-the-badge&logo=blueprint)](https://github.com/GaroPlay) 
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/DaniilVdovin)
 ### Technologies & Frameworks
 [![Unreal Engin 5](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://github.com/GaroPlay)
 
@@ -10,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/GaroPlay">
-    <img src="https://skillicons.dev/icons?i=unreal,visualstudio,cpp,windows,github,stackoverflow,discord,gmail" />
+    <img src="https://skillicons.dev/icons?i=unreal,visualstudio,cpp,pycharm,windows,github,stackoverflow,discord,gmail" />
   </a>
 </p>
 
